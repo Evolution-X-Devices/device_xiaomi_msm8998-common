@@ -1377,7 +1377,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="ims_call_type_enabled" value="true" />
         <boolean name="config_enable_conference_dialer" value="true" />
         <boolean name="config_conference_call_show_participant_status" value="true" />
-        <boolean name="ignore_data_enabled_changed_for_video_calls" value="true"/>
+        <boolean name="ignore_data_enabled_changed_for_video_calls" value="true" />
         <boolean name="add_multi_participants_enabled" value="true" />
         <boolean name="add_participant_only_in_conference" value="true" />
         <boolean name="config_enable_cfu_time" value="true" />
@@ -1388,8 +1388,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="identify_high_definition_calls_in_call_log_bool" value="true" />
         <boolean name="ignore_reset_ut_capability_bool" value="true" />
         <boolean name="carrier_parse_number_on_forward_call_bool" value="true" />
-        <string name="carrier_name_string">China Mobile</string>
-        <boolean name="config_update_service_status" value="true"/>
+        <string name="carrier_name_string">中国移动</string>
+        <boolean name="config_update_service_status" value="false"/>
         <boolean name="support_video_conference_call_bool" value="false"/>
         <boolean name="allow_add_call_during_video_call" value="false" />
         <boolean name="allow_holding_video_call" value="false" />
@@ -1414,8 +1414,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="ignore_data_enabled_changed_for_video_calls" value="true"/>
         <boolean name="config_hide_vt_callforward_option" value="true" />
         <boolean name="carrier_parse_number_on_forward_call_bool" value="true" />
-        <string name="carrier_name_string">China Unicom</string>
-        <boolean name="config_update_service_status" value="true"/>
+        <string name="carrier_name_string">中国联通</string>
+        <boolean name="config_update_service_status" value="false"/>
         <boolean name="config_update_volte_icon" value="false"/>
         <boolean name="check_mobile_data_for_cf" value="true" />
         <boolean name="vilte_data_is_metered_bool" value="false" />
@@ -1456,7 +1456,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="ims_call_type_enabled" value="true" />
         <boolean name="config_enable_conference_dialer" value="true" />
         <boolean name="config_conference_call_show_participant_status" value="true" />
-        <boolean name="ignore_data_enabled_changed_for_video_calls" value="true"/>
+        <boolean name="ignore_data_enabled_changed_for_video_calls" value="true" />
         <boolean name="add_multi_participants_enabled" value="true" />
         <boolean name="add_participant_only_in_conference" value="true" />
         <boolean name="config_enable_cfu_time" value="true" />
@@ -1467,8 +1467,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="identify_high_definition_calls_in_call_log_bool" value="true" />
         <boolean name="ignore_reset_ut_capability_bool" value="true" />
         <boolean name="carrier_parse_number_on_forward_call_bool" value="true" />
-        <string name="carrier_name_string">China Mobile</string>
-        <boolean name="config_update_service_status" value="true"/>
+        <string name="carrier_name_string">中国移动</string>
+        <boolean name="config_update_service_status" value="false"/>
         <boolean name="support_video_conference_call_bool" value="false"/>
         <boolean name="allow_add_call_during_video_call" value="false" />
         <boolean name="allow_holding_video_call" value="false" />
@@ -1492,7 +1492,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
             <string name="roaming_protocol">IPV4V6</string>
         </map>
         <boolean name="config_show_orig_dial_string_for_cdma" value="true" />
-        <boolean name="ignore_data_enabled_changed_for_video_calls" value="true"/>
+        <boolean name="ignore_data_enabled_changed_for_video_calls" value="true" />
         <boolean name="config_hide_vt_callforward_option" value="true" />
         <string-array name="carrier_metered_apn_types_strings" num="3">
             <item value="default" />
@@ -1504,7 +1504,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="config_auto_retry_cfu_bool" value="true" />
         <boolean name="config_update_service_status" value="false"/>
         <boolean name="allow_add_call_during_video_call" value="false" />
-        <boolean name="allow_holding_video_call" value="false" />
         <boolean name="config_common_callsettings_support_bool" value="true" />
         <boolean name="vilte_data_is_metered_bool" value="false" />
         <boolean name="config_enable_video_crbt" value="true" />
@@ -1555,8 +1554,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="ignore_data_enabled_changed_for_video_calls" value="true"/>
         <boolean name="config_hide_vt_callforward_option" value="true" />
         <boolean name="carrier_parse_number_on_forward_call_bool" value="true" />
-        <string name="carrier_name_string">China Unicom</string>
-        <boolean name="config_update_service_status" value="true"/>
+        <string name="carrier_name_string">中国联通</string>
+        <boolean name="config_update_service_status" value="false"/>
         <boolean name="config_update_volte_icon" value="false"/>
         <boolean name="check_mobile_data_for_cf" value="true" />
         <boolean name="vilte_data_is_metered_bool" value="false" />
@@ -1597,7 +1596,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="ims_call_type_enabled" value="true" />
         <boolean name="config_enable_conference_dialer" value="true" />
         <boolean name="config_conference_call_show_participant_status" value="true" />
-        <boolean name="ignore_data_enabled_changed_for_video_calls" value="true"/>
+        <boolean name="ignore_data_enabled_changed_for_video_calls" value="true" />
         <boolean name="add_multi_participants_enabled" value="true" />
         <boolean name="add_participant_only_in_conference" value="true" />
         <boolean name="config_enable_cfu_time" value="true" />
@@ -1645,7 +1644,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="ims_call_type_enabled" value="true" />
         <boolean name="config_enable_conference_dialer" value="true" />
         <boolean name="config_conference_call_show_participant_status" value="true" />
-        <boolean name="ignore_data_enabled_changed_for_video_calls" value="true"/>
+        <boolean name="ignore_data_enabled_changed_for_video_calls" value="true" />
         <boolean name="add_multi_participants_enabled" value="true" />
         <boolean name="add_participant_only_in_conference" value="true" />
         <boolean name="config_enable_cfu_time" value="true" />
@@ -1676,8 +1675,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="ignore_data_enabled_changed_for_video_calls" value="true"/>
         <boolean name="config_hide_vt_callforward_option" value="true" />
         <boolean name="carrier_parse_number_on_forward_call_bool" value="true" />
-        <string name="carrier_name_string">China Unicom</string>
-        <boolean name="config_update_service_status" value="true"/>
+        <string name="carrier_name_string">中国联通</string>
+        <boolean name="config_update_service_status" value="false"/>
         <boolean name="config_update_volte_icon" value="false"/>
         <boolean name="check_mobile_data_for_cf" value="true" />
         <boolean name="vilte_data_is_metered_bool" value="false" />
@@ -1725,7 +1724,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="config_auto_retry_cfu_bool" value="true" />
         <boolean name="config_update_service_status" value="false"/>
         <boolean name="allow_add_call_during_video_call" value="false" />
-        <boolean name="allow_holding_video_call" value="false" />
         <boolean name="config_common_callsettings_support_bool" value="true" />
         <boolean name="vilte_data_is_metered_bool" value="false" />
         <boolean name="config_enable_video_crbt" value="true" />
@@ -1755,7 +1753,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="ignore_reset_ut_capability_bool" value="true" />
         <boolean name="config_auto_retry_cfu_bool" value="true" />
         <boolean name="allow_add_call_during_video_call" value="false" />
-        <boolean name="allow_holding_video_call" value="false" />
         <boolean name="config_common_callsettings_support_bool" value="true" />
         <boolean name="vilte_data_is_metered_bool" value="false" />
         <boolean name="config_enable_video_crbt" value="true" />
